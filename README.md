@@ -3,7 +3,7 @@
 
 - 🌱 Currently exploring app architecture /  UI/UX design
 
-- 📫 How to reach me **benjaminshand101@gmail.com**
+- 📫 How to reach me: **benjaminshand101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
