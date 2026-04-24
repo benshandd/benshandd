@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Shand</h1>
 
 # 🌟 About Me:
-I am a third-year software engineering student at Victoria University of Wellington, passionate about exploring the realms of coding, machine learning, and building useful applications.
-
-## 🚀 What I'm Up To
-
-Check out my [personal portfolio](https://benshand.me/)
+Computer Science graduate from Victoria University of Wellington, now a Software Developer at Qestral Corporation.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benshand/)
